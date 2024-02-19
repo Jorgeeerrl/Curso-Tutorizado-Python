@@ -1,3 +1,5 @@
+################################################## IN ###############################################
+
 # IN se utiliza para realizar búsquedas dentro de una lista:
 
 Trabajadores=["Paula", "Manuel", "Pedro", "Ana", "Sandra"]
@@ -23,6 +25,9 @@ if "#" in Lenguajes_Trim1:
 else:
     print("No está")
 
+
+
+################################################ NOT IN ##############################################
 
 # NOT se utiliza para justo lo contrario
 

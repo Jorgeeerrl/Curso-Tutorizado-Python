@@ -1,4 +1,4 @@
-
+######################################## BUCLES Y DICCIONARIOS ########################################
 
 paisescapitales={"Espana":"Madrid", "Francia":"Paris", "Inglaterra":"Londres", "Italia":"Roma", "Portugal":"Lisboa"}
 
